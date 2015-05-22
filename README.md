@@ -19,13 +19,13 @@ Shapely installed through `pip` cannot find the GEOS library. So I followed the 
 3. Run `pip install wheel`
 4. Run `pip install THE_WHEEL_FILENAME`
 
-## Basemap Tutorials by Sentdex
-* basemap_ex01.py: Sentdex's Tutorial Part 1 (see https://www.youtube.com/watch?v=E6gvtfQHJUs)
-* basemap_ex02.py: Sentdex's Tutorial Part 2 (see https://www.youtube.com/watch?v=KpS0uEFkfHg)
-* basemap_ex03.py: Sentdex's Tutorial Part 3 (see https://www.youtube.com/watch?v=aIX2ZrSWgnc)
-* basemap_ex04.py: Sentdex's Tutorial Part 4 (see https://www.youtube.com/watch?v=Xr6sG1QnMbw)
-* basemap_ex05.py: Sentdex's Tutorial Part 5 (see https://www.youtube.com/watch?v=kZmYEfTv_WY)
-* basemap_ex06.py: Drawing a segment
+## Basemap Tutorials
+* **basemap_ex01.py**: Sentdex's Tutorial Part 1 (see https://www.youtube.com/watch?v=E6gvtfQHJUs)
+* **basemap_ex02.py**: Sentdex's Tutorial Part 2 (see https://www.youtube.com/watch?v=KpS0uEFkfHg)
+* **basemap_ex03.py**: Sentdex's Tutorial Part 3 (see https://www.youtube.com/watch?v=aIX2ZrSWgnc)
+* **basemap_ex04.py**: Sentdex's Tutorial Part 4 (see https://www.youtube.com/watch?v=Xr6sG1QnMbw)
+* **basemap_ex05.py**: Sentdex's Tutorial Part 5 (see https://www.youtube.com/watch?v=kZmYEfTv_WY)
+* **basemap_ex06.py**: Draw a segment
 
 ## References
 * Project directory layout: http://www.jeffknupp.com/blog/2013/08/16/open-sourcing-a-python-project-the-right-way/
