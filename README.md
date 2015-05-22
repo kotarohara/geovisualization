@@ -14,10 +14,10 @@ the time of writing, GEOS (a C++ library for GIS stuff) cannot be installed on a
 Another hiccup I encountered with installing dependencies is installing Shapely. I don't know why, but the 
 Shapely installed through `pip` cannot find the GEOS library. So I followed the instruction here: http://gis.stackexchange.com/questions/38899/geos-and-shapely-installation-on-windows
 
-* Uninstall Shapely (`pip uninstall shapely`)
-* Download the Shapely wheel file from the following link: http://www.lfd.uci.edu/~gohlke/pythonlibs/#shapely
-* Run `pip install wheel`
-* Run `pip install THE_WHEEL_FILENAME`
+1. Uninstall Shapely (`pip uninstall shapely`)
+2. Download the Shapely wheel file from the following link: http://www.lfd.uci.edu/~gohlke/pythonlibs/#shapely
+3. Run `pip install wheel`
+4. Run `pip install THE_WHEEL_FILENAME`
 
 ## Basemap Tutorials by Sentdex
 * basemap_ex01.py: Sentdex's Tutorial Part 1 (see https://www.youtube.com/watch?v=E6gvtfQHJUs)
