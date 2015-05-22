@@ -1,4 +1,4 @@
-# Geovisualization
+# Geovisualization with Python
 
 ## Requirements
 This project uses the following python libraries as well as the C/C++ libraries that they depend on.
