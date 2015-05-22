@@ -20,11 +20,12 @@ Shapely installed through `pip` cannot find the GEOS library. So I followed the 
 * Run `pip install THE_WHEEL_FILENAME`
 
 ## Basemap Tutorials by Sentdex
-* Part 1: basemap_ex01.py 
-* Part 2: basemap_ex02.py 
-* Part 3: basemap_ex03.py
-* Part 4: basemap_ex04.py
-* Part 5: basemap_ex05.py
+* basemap_ex01.py: Sentdex's Tutorial Part 1 (see https://www.youtube.com/watch?v=E6gvtfQHJUs)
+* basemap_ex02.py: Sentdex's Tutorial Part 2 (see https://www.youtube.com/watch?v=KpS0uEFkfHg)
+* basemap_ex03.py: Sentdex's Tutorial Part 3 (see https://www.youtube.com/watch?v=aIX2ZrSWgnc)
+* basemap_ex04.py: Sentdex's Tutorial Part 4 (see https://www.youtube.com/watch?v=Xr6sG1QnMbw)
+* basemap_ex05.py: Sentdex's Tutorial Part 5 (see https://www.youtube.com/watch?v=kZmYEfTv_WY)
+* basemap_ex06.py: Drawing a segment
 
 ## References
 * Project directory layout: http://www.jeffknupp.com/blog/2013/08/16/open-sourcing-a-python-project-the-right-way/
