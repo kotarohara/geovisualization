@@ -37,7 +37,7 @@ def main():
     idx.delete(1, bbox)
     print idx.count(bbox)
     print "... I'm confused because the item is not deleted..."
-    print 
+    print
     print "Ok, the bounding box must match the shape of the object... (http://lists.gispython.org/pipermail/community/2009-November/002379.html"
     idx.delete(1, linestrings[1].bounds)
     print idx.count(bbox)
